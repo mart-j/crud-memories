@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crud-memories/static/css/main.89601be6.chunk.css",
+    "main.js": "/crud-memories/static/js/main.cb84b15d.chunk.js",
+    "main.js.map": "/crud-memories/static/js/main.cb84b15d.chunk.js.map",
+    "runtime-main.js": "/crud-memories/static/js/runtime-main.5799d875.js",
+    "runtime-main.js.map": "/crud-memories/static/js/runtime-main.5799d875.js.map",
+    "static/js/2.3fc030e1.chunk.js": "/crud-memories/static/js/2.3fc030e1.chunk.js",
+    "static/js/2.3fc030e1.chunk.js.map": "/crud-memories/static/js/2.3fc030e1.chunk.js.map",
+    "static/js/3.07914e24.chunk.js": "/crud-memories/static/js/3.07914e24.chunk.js",
+    "static/js/3.07914e24.chunk.js.map": "/crud-memories/static/js/3.07914e24.chunk.js.map",
+    "index.html": "/crud-memories/index.html",
+    "static/css/main.89601be6.chunk.css.map": "/crud-memories/static/css/main.89601be6.chunk.css.map",
+    "static/js/2.3fc030e1.chunk.js.LICENSE.txt": "/crud-memories/static/js/2.3fc030e1.chunk.js.LICENSE.txt",
+    "static/media/loading.8a29391e.gif": "/crud-memories/static/media/loading.8a29391e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5799d875.js",
+    "static/js/2.3fc030e1.chunk.js",
+    "static/css/main.89601be6.chunk.css",
+    "static/js/main.cb84b15d.chunk.js"
+  ]
+}
